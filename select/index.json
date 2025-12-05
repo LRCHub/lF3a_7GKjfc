@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Survivor",
+  "base_artist": "BLUE ENCOUNT",
+  "createdAt": "2025-12-05T04:34:20.745573Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I'm A Survivor",
+      "artist": "Reba McEntire",
+      "has_synced": true,
+      "path": "select/01_I'm_A_Survivor_Reba_McEntire.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I'm A Survivor",
+      "artist": "Reba McEntire",
+      "has_synced": true,
+      "path": "select/02_I'm_A_Survivor_Reba_McEntire.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Soul Survivor",
+      "artist": "In Fear and Faith",
+      "has_synced": true,
+      "path": "select/03_Soul_Survivor_In_Fear_and_Faith.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "SOLID STATE SURVIVOR",
+      "artist": "Yellow Magic Orchestra",
+      "has_synced": false,
+      "path": "select/04_SOLID_STATE_SURVIVOR_Yellow_Magic_Orchestra.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Survivor",
+      "artist": "M.I.A.",
+      "has_synced": true,
+      "path": "select/05_Survivor_M.I.A..lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Survivor",
+      "artist": "Mr. Fingers",
+      "has_synced": false,
+      "path": "select/06_Survivor_Mr._Fingers.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "New World Survivor",
+      "artist": "Johnny Clegg",
+      "has_synced": false,
+      "path": "select/07_New_World_Survivor_Johnny_Clegg.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Soul Survivor",
+      "artist": "Buzzcocks",
+      "has_synced": true,
+      "path": "select/08_Soul_Survivor_Buzzcocks.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Eye Of The Tiger (Survivor cover)",
+      "artist": "Great White",
+      "has_synced": false,
+      "path": "select/09_Eye_Of_The_Tiger_(Survivor_cover)_Great_White.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sole Survivor",
+      "artist": "Treat",
+      "has_synced": true,
+      "path": "select/10_Sole_Survivor_Treat.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Soul Survivor",
+      "artist": "Night Ranger",
+      "has_synced": false,
+      "path": "select/11_Soul_Survivor_Night_Ranger.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Lone Survivor",
+      "artist": "Krzysztof Wierzynkiewicz",
+      "has_synced": false,
+      "path": "select/12_The_Lone_Survivor_Krzysztof_Wierzynkiewicz.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sole Survivor",
+      "artist": "Freedom Call",
+      "has_synced": true,
+      "path": "select/13_Sole_Survivor_Freedom_Call.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Sole Survivor",
+      "artist": "Helloween",
+      "has_synced": true,
+      "path": "select/14_Sole_Survivor_Helloween.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Sole Survivor",
+      "artist": "Helloween",
+      "has_synced": true,
+      "path": "select/15_Sole_Survivor_Helloween.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Sole Survivor",
+      "artist": "Helloween",
+      "has_synced": true,
+      "path": "select/16_Sole_Survivor_Helloween.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Survivor",
+      "artist": "BLUE ENCOUNT",
+      "has_synced": false,
+      "path": "select/pl_01_Survivor_BLUE_ENCOUNT.txt"
+    }
+  ]
+}
